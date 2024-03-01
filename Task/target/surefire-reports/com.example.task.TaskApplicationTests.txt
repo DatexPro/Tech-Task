@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.task.TaskApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.006 s <<< FAILURE! - in com.example.task.TaskApplicationTests
+com.example.task.TaskApplicationTests  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.TypeNotPresentException: Type org.springframework.test.context.junit.jupiter.SpringExtension not present
+Caused by: java.lang.ClassNotFoundException: org.springframework.test.context.junit.jupiter.SpringExtension
+
